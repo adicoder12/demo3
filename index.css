@@ -1,0 +1,109 @@
+.grad {
+    background: #CB356B;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BD3F32, #CB356B);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 22px;
+}
+
+.grad2 {
+    background: #3CA55C;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #B5AC49, #3CA55C);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #B5AC49, #3CA55C);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.grad3 {
+    background: #8E2DE2;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.grad4 {
+    background: #ED213A;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.grad5 {
+    background: #FF512F;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F09819, #FF512F);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F09819, #FF512F);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.font {
+    font-family: 'Didact Gothic', sans-serif;
+
+}
+
+.font2 {
+    font-family: 'Muli', sans-serif;
+}
+
+.font-wt {
+    font-weight: 600;
+}
+
+.font-wt2 {
+    font-weight: 500;
+}
+
+.bor-rad {
+    border-radius: 22px;
+}
+
+.my-shadow {
+    box-shadow: 0 30px 60px rgba(92, 99, 105, 0.15);
+
+}
+
+.my-shadow:hover {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.4);
+}
+
+.btnbg {
+    background: linear-gradient(to right, #BD3F32, #CB356B);
+    border-width: 3px;
+    color: #FFFFFF !important;
+    font-weight: 700;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.btn.btn-primary {
+    font-family: 'Didact Gothic', sans-serif;
+    background: linear-gradient(to right, #BD3F32, #CB356B);
+    border-color: #BD3F32;
+    font-weight: 700;
+}
+
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary:hover {
+    font-family: 'Didact Gothic', sans-serif;
+    background-color: #FFFFFF;
+    border-width: medium;
+    border-color: #BD3F32;
+    color: #BD3F32;
+    font-weight: 700;
+}
+
+#fixed:hover {
+    background-image: none;
+}
